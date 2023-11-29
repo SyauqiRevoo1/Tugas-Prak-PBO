@@ -62,7 +62,7 @@ Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograma
       
       5. Di dalam metode `main`, terdapat empat perintah `System.out.println(...);` yang mencetak empat baris teks berbeda ke layar. Teks yang dicetak tampaknya adalah bagian dari puisi atau teks deskriptif yang menggambarkan sebuah pohon.
 
-        Jadi, program ini mencetak dua pesan selamat datang ke layar saat dijalankan. Pesan tersebut adalah "Welcome to Java Programming Raden Galuh Garhadi Cakranata!" dan "Have A Great Activity".
+        Jadi, program ini mencetak dua pesan selamat datang ke layar saat dijalankan. Pesan tersebut adalah "Welcome to Java Programming Syauqi!" dan "Have A Great Activity".
    </p>
          <p>
         <b> Tugas 3 </b>
